@@ -1,14 +1,12 @@
 # Hey, 🤙 my name is Luke Slater
 
-I'm currently taking the full stack web development bootcamp course @ Nashville Software School!
+I'm currently taking the full stack web development bootcamp course @ Nashville Software School 🧠!
 --------------
 #### Contact Me
 <p>
 <a href="https://www.linkedin.com/in/luke-slater/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:lukeslater101@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-* 🧠  Currently taking the full stack web development bootcamp course @ Nashville Software School | JS | REACT | HTML | CSS | C# | .NET
 
 ### Skills
 
