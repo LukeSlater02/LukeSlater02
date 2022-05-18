@@ -1,11 +1,12 @@
-Hi 👋 My name is Luke Slater
-============================
+# Hey, 🤙 my name is Luke Slater
 
-Software Dev
-------------
-<a href="https://www.linkedin.com/in/luke-slater/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
-
+I'm currently taking the full stack web development bootcamp course @ Nashville Software School!
+--------------
+#### Contact Me
+<p>
+ <a href="https://www.linkedin.com/in/luke-slater/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
 
 * 🧠  Currently taking the full stack web development bootcamp course @ Nashville Software School | JS | REACT | HTML | CSS | C# | .NET
 
