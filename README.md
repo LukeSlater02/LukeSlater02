@@ -4,7 +4,7 @@ I'm currently taking the full stack web development bootcamp course @ Nashville 
 --------------
 #### Contact Me
 <p>
- <a href="https://www.linkedin.com/in/luke-slater/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/luke-slater/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
