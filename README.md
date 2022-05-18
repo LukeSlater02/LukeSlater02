@@ -1,6 +1,6 @@
 # Hey, 🤙 my name is Luke Slater
 
-I'm currently taking the full stack web development bootcamp course @ Nashville Software School 🧠!
+I'm currently taking the full stack web development bootcamp course @ Nashville Software School! 🧠
 --------------
 #### Contact Me
 <p>
