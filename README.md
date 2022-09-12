@@ -1,5 +1,4 @@
 # Hey, 🤙 I'm Luke Slater
---------------
 #### Contact Me
 <p>
 <a href="https://www.linkedin.com/in/luke-slater/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
